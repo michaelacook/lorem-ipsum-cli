@@ -8,7 +8,7 @@ Lorem Ipsum CLI is really simple. It uses 100 different Latin nonsense sentences
 To install, run:
 
 ```
-$ npm install lorem-ipsum-cli -g
+$ npm install lorem-ipsum-text-cli -g
 ```
 
 ## Usage 
