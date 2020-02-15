@@ -18,18 +18,6 @@ To generate placeholder, run:
 $ lorem-ipsum [numberOfParagraphs]
 ```
 
-E.g:
-
-```
-$ lorem-ipsum 3
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget est viverra, iaculis sem in, viverra elit. Nullam eu aliquam nibh, ut euismod ex. Aenean diam lacus, fermentum ut cursus vel, elementum vitae risus. Vestibulum a erat in ante bibendum sollicitudin a at ligula. Nulla velit augue, dignissim id nisi in, egestas accumsan nibh. Etiam consectetur dui quis vestibulum luctus. Mauris nulla libero, convallis sagittis diam at, interdum tempus sem. Donec nisi lorem, facilisis eget enim ut, fermentum semper sem. Aenean ac porta erat, in varius ex. 
-
-Morbi congue ultrices mi. Aenean faucibus pellentesque elit rutrum lobortis. Donec eget nisi vitae ex condimentum aliquam. Nunc lobortis ornare erat, vitae dignissim orci volutpat vel. Nunc eu quam laoreet felis rutrum feugiat. Duis vel dictum mi. 
-
-Donec eget nisi vitae ex condimentum aliquam. Vestibulum at est aliquet, accumsan risus vel, pretium augue. Fusce porta porttitor augue quis congue. Nunc eu quam laoreet felis rutrum feugiat. Vestibulum at est aliquet, accumsan risus vel, pretium augue.
-```
-
 Simply copy from your terminal using `ctrl+shift+c` and use as needed!
 
 ## License 
