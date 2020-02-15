@@ -1,4 +1,4 @@
-# Lorem Ipsum CLI
+# Lorem Ipsum Text CLI
 A simple commandline tool for generating lorem ipsum placeholder text at the commandline. No need to open a web browser, just open your terminal!
 
 ## How It Works 
