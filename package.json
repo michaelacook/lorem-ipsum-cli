@@ -1,0 +1,28 @@
+{
+  "name": "lorem-ipsum-cli",
+  "version": "1.0.0",
+  "description": "A tool to quickly generate lorem ipsum placeholder at the commandline.",
+  "main": "bin/index.js",
+  "bin": {
+    "lorem-ipsum": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "lorem",
+    "ipsum",
+    "generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelacook/lorem-ipsum-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelacook/lorem-ipsum-cli/issues"
+  },
+  "homepage": "https://github.com/michaelacook/lorem-ipsum-cli#readme",
+  "author": "Michael A. Cook",
+  "license": "MIT"
+}
