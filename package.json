@@ -1,5 +1,5 @@
 {
-  "name": "lorem-ipsum-generator",
+  "name": "lorem-ipsum-text-cli",
   "version": "1.0.0",
   "description": "A tool to quickly generate lorem ipsum placeholder at the commandline.",
   "main": "bin/index.js",
