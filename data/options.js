@@ -3,6 +3,7 @@ module.exports = {
 ---- Listing options ----
 -h                   Help.
 --help               Help.
+--html               Wrap paragraphs in html p tags.
 -v                   Version.
 --version            Version.
 `,
@@ -10,6 +11,7 @@ module.exports = {
 ---- Listing options ----
 -h                   Help.
 --help               Help.
+--html               Wrap paragraphs in html p tags.
 -v                   Version.
 --version            Version.
 `,

@@ -6,15 +6,21 @@ const options = require('../data/options');
 
 const textGenerator = new (require('../src/TextGenerator'))();
 
-const arg = getArgs();
-const paragraphs = parseInt(arg[0]);
+// commandline arguments
+const args = getArgs();
+const paragraphs = parseInt(args[0]);
+let html = false;
+if (args.length > 1) {
+    if (args[1] === '--html') {
+        html = true;
+    }
+}
 
 if (isNaN(paragraphs)) {
-    displayMsg(options, arg);   
+    displayMsg(options, args);   
     process.exit();
 } 
 
-const placeholder = textGenerator.generatePlaceholder(paragraphs);
+const placeholder = textGenerator.generatePlaceholder(paragraphs, html);
 placeholder.forEach(paragraph => process.stdout.write(paragraph));
-
 
